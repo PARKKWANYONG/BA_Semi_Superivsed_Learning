@@ -146,4 +146,6 @@ Ref 4 : https://woosikyang.github.io/Ladder-Network.html
 
 Ref 5 : https://m.blog.naver.com/winddori2002/222162725269
 
+Ref 6 : https://github.com/kekmodel/FixMatch-pytorch
 
+Ref 7 : https://github.com/wohlert/semi-supervised-pytorch
