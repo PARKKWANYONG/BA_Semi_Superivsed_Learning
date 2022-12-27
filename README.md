@@ -23,7 +23,7 @@ Semi-supervised learning의 목적함수는 supervised loss L_s 와 unsupervised
 
 https://ainote.tistory.com/6
 
-1. Pseudo Labeling 
+### 1. Pseudo Labeling 
 
 ![image](https://user-images.githubusercontent.com/71392868/209639831-5db725b9-e20d-4bf0-9361-62ebbaa8ccfe.png)
 
@@ -45,7 +45,7 @@ Pseudo Labeling의 순서는 다음과 같다.
 이렇게 두 데이터를 동시에 이용하여 효과적으로 모델을 학습시키는 방법이다..
 
 
-2. Consistency Regularization
+### 2. Consistency Regularization
 
 ![image](https://user-images.githubusercontent.com/71392868/209640155-a5062174-fd43-4672-bd14-18d536ff370d.png)
 
@@ -54,7 +54,7 @@ Consistency Regularization은 쉽게 말해 "데이터에 가해진 작은 변�
 ![image](https://user-images.githubusercontent.com/71392868/209640179-9888b632-805a-473e-82f3-7042dbd124eb.png)
 
 
-3. Entropy Minimization
+### 3. Entropy Minimization
 
 ![image](https://user-images.githubusercontent.com/71392868/209640197-6d05d920-2274-4dc8-a591-bbf2d24b6acf.png)
 
