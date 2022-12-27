@@ -21,7 +21,6 @@ Semi-supervised learning의 목적함수는 supervised loss L_s 와 unsupervised
 
 ## Semi-supervised learning 방법론
 
-https://ainote.tistory.com/6
 
 ### 1. Pseudo Labeling 
 
